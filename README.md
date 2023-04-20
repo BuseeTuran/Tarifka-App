@@ -1,0 +1,2 @@
+# Tarifka-App
+REACT-NATİVE-TARİFKA-APP
